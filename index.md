@@ -262,9 +262,9 @@ Edit the text to match who can attend the workshop. For instance:
 
 <h2 id="registration">Registration</h2>
 
-<p> <del>Please sign up <strong><a href="https://nettskjema.no/a/222739">here</a></strong>.</del>
+<p>Please sign up <strong><a href="https://nettskjema.no/a/222739">here</a></strong>.
 
-The workshop is fully booked. If you are interested in a future event, you can check <a href="https://www.digitallifenorway.org/events/"> for future Digital Life events</a> or <a href="https://carpentries.org/"> other carpentries workshops</a>
+If you are interested in future events, you can check <a href="https://www.digitallifenorway.org/events/"> for future Digital Life events</a>, <a href="https://elixir.no/events"> for future ELIXIR-Norway events</a>  or <a href="https://carpentries.org/"> for other carpentries workshops</a>
 
 We will send you more information before the course. Please let us know if you encounter any issues.</p>
 
