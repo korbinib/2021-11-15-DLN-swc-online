@@ -262,19 +262,22 @@ Edit the text to match who can attend the workshop. For instance:
 
 <h2 id="registration">Registration</h2>
 
+<p>
 Please register before the 3rd of November.
-
+</p>
+  
 <p class="text-center">
   <a href="https://nettskjema.no/a/222739">
     <button type="button" class="btn btn-info">Please sign up here/button>
   </a>
 </p>
-<hr/>
 
 <p>
 If you are interested in a future event, you can check <a href="https://www.digitallifenorway.org/events/"> for future Digital Life events</a> or <a href="https://carpentries.org/"> other carpentries workshops</a>
 
 We will send you more information before the course. Please let us know if you encounter any issues.</p>
+
+<hr/>
 
 {% comment%}
 CODE OF CONDUCT
