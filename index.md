@@ -268,7 +268,7 @@ Please register before the 3rd of November.
   
 <p class="text-center">
   <a href="https://nettskjema.no/a/222739">
-    <button type="button" class="btn btn-info">Please sign up here/button>
+    <button type="button" class="btn btn-info">Please sign up here</button>
   </a>
 </p>
 
